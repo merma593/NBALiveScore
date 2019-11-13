@@ -1,5 +1,7 @@
 import { Team, ConfName } from './team';
 
+// TODO: Add team logo urls. Logos are located using the tricode -> https://www.nba.com/assets/logos/teams/primary/web/GSW.svg
+
 export const ATL: Team = {
   isNBAFranchise: true,
   isAllStar: false,

@@ -1,2 +1,2 @@
 # NBALiveScore
-Web Application that displays live NBA games cores
+Web Application that displays live NBA games scores
